@@ -1,0 +1,2 @@
+# Aimara
+Lenguaje aimara
